@@ -79,3 +79,5 @@ window.onload = function(){
 				}
 			}
 		}
+	}
+}
