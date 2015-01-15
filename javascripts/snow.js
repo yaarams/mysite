@@ -80,4 +80,12 @@ window.onload = function(){
 			}
 		}
 	}
+	
+	//animation loop
+	setInterval(draw, 33);
 }
+
+
+
+
+
